@@ -13,6 +13,6 @@ Around Here is a community bulletin board for sharing local observations, import
 
 ## demo
 
-![alt](frontpage.png)
-![alt](popup.png)
-![alt](add.png)
+![alt](/public/frontpage.png)
+![alt](/public/popup.png)
+![alt](/public/add.png)
